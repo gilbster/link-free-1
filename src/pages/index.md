@@ -1,5 +1,11 @@
 ---
 key: IndexPage
+logo: cover.png
+buttonsColor: "#ffc096"
+borderRadius: "11"
+buttonsFontColor: "#3c322c"
+fontColor: "#fff"
+background: "#509ff9"
 links:
   - label: Chat with us on WhatsApp 💬
     url: https://wa.me/5545991328593
@@ -11,10 +17,4 @@ links:
     url: https://github.com/marscollective
   - label: Like us on Facebook 👍
     url: https://www.facebook.com/marscollective.co
-borderRadius: 16
-buttonsColor: '#00d1b7'
-buttonsFontColor: '#262626'
-fontColor: '#fff'
-background: '#262626'
-logo: 'logo.png'
 ---
