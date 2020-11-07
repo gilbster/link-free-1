@@ -17,4 +17,6 @@ links:
     url: https://github.com/gilbster
   - label: View My Photography 📸
     url: https://photo.alexandergilbertson.com/
+  - label: Get Your Own Link Page
+    url: /form.html
 ---
