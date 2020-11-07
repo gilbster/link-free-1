@@ -1,10 +1,8 @@
-# Linkfree
+# Gilbster's Links
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/marscollective/link-free)
+[](https://app.netlify.com/start/deploy?repository=https://github.com/marscollective/link-free)
 
 Linkfree is an open-source alternative to paid, limited tools like [Linktree](https://linktr.ee/).
-
-![Linkfree interface](link-free.png)
 
 It is developed by [Mars](https://marscollective.co/) using the Jamstack architecture, combining the power of Gatsby (React and GraphQL) with styled-components and Netlify CMS to provide a fast, reliable, and fully customizable tool, *served* by the Netlify CDN. 🚀
 
@@ -20,11 +18,11 @@ While these tools are simple by design, we consider them to be more expensive an
 
 Other than creating a link list, currently, you can:
 
-- Add a custom logo;
-- Add a custom favicon;
-- Integrate Google Tag Manager with just an ID;
-- Freely customize buttons, background, and font colors;
-- Customize the button's border-radius (make it square or rounder).
+* Add a custom logo;
+* Add a custom favicon;
+* Integrate Google Tag Manager with just an ID;
+* Freely customize buttons, background, and font colors;
+* Customize the button's border-radius (make it square or rounder).
 
 You can also live preview all your changes while you work on them.
 
