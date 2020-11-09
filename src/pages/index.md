@@ -1,11 +1,11 @@
 ---
 key: IndexPage
-logo: cover.png
-buttonsColor: "#ffc096"
+logo: cover2.png
+buttonsColor: "#022239"
 borderRadius: "11"
-buttonsFontColor: "#3c322c"
-fontColor: "#fff"
-background: "#509ff9"
+buttonsFontColor: "#ffffff"
+fontColor: "#022239"
+background: "#d2eaf5"
 links:
   - label: See my Coding Portfolio 👨‍💻
     url: https://alexanderg.me
