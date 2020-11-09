@@ -3,7 +3,7 @@ key: IndexPage
 logo: cover2.png
 buttonsColor: "#022239"
 borderRadius: "11"
-buttonsFontColor: "#ffffff"
+buttonsFontColor: "#d2eaf5"
 fontColor: "#022239"
 background: "#d2eaf5"
 links:
