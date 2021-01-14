@@ -12,7 +12,7 @@ links:
   - url: https://instagram.com/gilbster
     label: Follow me on Instagram 📸
   - label: See my Urban Planning Portfolio 🗺
-    url: https://www.behance.net/marscollective
+    url: https://alexandergilbertson.com
   - label: See what I'm coding on Github 💻
     url: https://github.com/gilbster
   - label: View My Photography 📸
