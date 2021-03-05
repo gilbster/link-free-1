@@ -7,8 +7,6 @@ buttonsFontColor: "#d2eaf5"
 fontColor: "#022239"
 background: "#d2eaf5"
 links:
-  - label: See my Coding Portfolio 👨‍💻
-    url: https://alexanderg.me
   - url: https://instagram.com/gilbster
     label: Follow me on Instagram 📸
   - label: See my Urban Planning Portfolio 🗺
@@ -19,4 +17,6 @@ links:
     url: https://photo.alexandergilbertson.com/
   - label: Get Your Own Link Page
     url: https://form.gilbster.link
+  - label: Lets get you a Website
+    url: https://letsgetyouaweb.site
 ---
