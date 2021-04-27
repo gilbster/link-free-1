@@ -19,4 +19,6 @@ links:
     url: https://form.gilbster.link
   - label: Lets get you a Website
     url: https://letsgetyouaweb.site
+  - label: "No more parties lofi remix 🎧 "
+    url: https://soundcloud.app.goo.gl/G4h54JfBnPTmqwH57
 ---
