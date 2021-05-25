@@ -11,6 +11,8 @@ links:
     url: https://soundcloud.app.goo.gl/G4h54JfBnPTmqwH57
   - label: Cycling NFTS 🚲🔥
     url: https://opensea.io/collection/urban-cycling
+  - url: https://www.hicetnunc.xyz/tz/tz1YQx3RyCaGrsAbBXQHa4YHucToCR7H1P8y
+    label: hic et nunc NFTs 🖼
   - label: View My Photography 📸
     url: https://photo.alexandergilbertson.com/
   - label: See my Urban Planning Portfolio 🗺
